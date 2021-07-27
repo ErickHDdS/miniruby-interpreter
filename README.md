@@ -8,7 +8,7 @@
  2. Compila o código "mrbi.java"
  `javac mrbi.java `
  3. Rode o código bytecode "mrbi.class" passando como parâmetro de execução o caminho para um arquivo de exemplo mini Ruby.
- `java mrbi ./exemples/access.mrb`
+ `java mrbi ./examples/access.mrb`
     
 
 ## Realizado por:
